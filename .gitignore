@@ -1,3 +1,9 @@
+CMakeCache.txt
+CMakeFiles
+Makefile
+*.cmake
+simplesql
+
 # Prerequisites
 *.d
 
