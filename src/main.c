@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello SQL!");
+    printf("Hello SQL!\n");
     return 0;	
 }
