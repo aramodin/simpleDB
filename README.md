@@ -1,2 +1,2 @@
-# simpleSQL
-A simple SQL DB
+# simpleDB
+A simple DB
